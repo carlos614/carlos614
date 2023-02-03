@@ -3,6 +3,7 @@
 <!--
 **carlos614/carlos614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![trophy](https://github-profile-trophy.vercel.app/?carlos614=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?carlos614=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
