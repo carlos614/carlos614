@@ -1,12 +1,21 @@
-### Hi there 👋
+[![MasterHead](https://github.com/carlos614/carlos614/blob/main/banner%20.png?raw=true)](https://github.com/carlos614)
 
 
-**carlos614/carlos614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello Devs 👋
 
-Here are some ideas to get you started:
+## You welcome to my Github profile
 
-[![MasterHead](https://uploaddeimagens.com.br/imagens/VBB8bZ0)](https://github.com/carlos614)
+# Who am i 👽
+<br>
 
+I am Analyst and deployment System of formation in the Unicesumar, i graduated in between of 2020. Well, i like very of the computacion and technology, is what be myself happy!!😀, of couse, have very challenges, to understand and apllicaded is very value. 
+
+
+- 🔭 I’m currently search of working. 
+- 🌱 I’m currently learning technologies of the market of work
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about, as my project final in the university.
 
 <a href="https://github.com/carlos614?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos614&show_icons=true&theme=merko" />
