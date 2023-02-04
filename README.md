@@ -61,13 +61,11 @@ I am Analyst and deployment System of formation in the Unicesumar, i graduated i
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   
-  # the what you let found
+  # what will you find....
   
- - Projects done in university
+ - Projects done in university.
  - tests of something business.
-- 🌱 I’m currently learning technologies of the market of work
-- 💬 Ask me about, as my project final in the university.
-  
+
  # <p align= "center">My Github Stats<p>
 
 <a href="https://github.com/carlos614?tab=repositories">
