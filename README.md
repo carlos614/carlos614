@@ -73,7 +73,7 @@ I am Analyst and development System of formation in the Unicesumar, i graduated 
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos614&repo=ChatBotGPT&theme=merko)](https://github.com/carlos614/ChatBotGPT)
 
- # <p align= "center">My Github Stats<p>
+ # <p align= "center">My Github Stats 👨‍💻<p>
 
 <a href="https://github.com/carlos614?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos614&show_icons=true&theme=merko" />
