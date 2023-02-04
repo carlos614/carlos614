@@ -50,6 +50,8 @@ I am Analyst and deployment System of formation in the Unicesumar, i graduated i
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
   ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
   ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+  
+ # <p align= "center">My Github Stats<p>
 
 <a href="https://github.com/carlos614?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos614&show_icons=true&theme=merko" />
@@ -61,11 +63,6 @@ I am Analyst and deployment System of formation in the Unicesumar, i graduated i
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos614&repo=ChatBotGPT&show_owner=true&theme=dark)](https://github.com/carlos614/ChatBotGPT)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos614&repo=OrientadoObjetosAndDAO&show_owner=true&theme=dark)](https://github.com/carlos614/OrientadoObjetosAndDAO)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos614&repo=LivrariaANGULAR&show_owner=true&theme=dark)](https://github.com/carlos614/LivrariaANGULAR)
 
 
 
