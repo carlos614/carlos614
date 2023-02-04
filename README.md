@@ -13,8 +13,6 @@ I am Analyst and deployment System of formation in the Unicesumar, i graduated i
 
 - 🔭 I’m currently search of working. 
 - 🌱 I’m currently learning technologies of the market of work
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about, as my project final in the university.
 
 <a href="https://github.com/carlos614?tab=repositories">
