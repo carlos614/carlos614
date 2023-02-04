@@ -8,7 +8,7 @@
 # Who am i 👽
 <br>
 
-I am Analyst and deployment System of formation in the Unicesumar, i graduated in between of 2020. Well, i like very of the computacion and technology, is what be myself happy!!😀, of couse, have very challenges, to understand and apllicaded is very value. 
+I am Analyst and development System of formation in the Unicesumar, i graduated in between of 2020. Well, i like very of the computacion and technology, is what be myself happy!!😀, of couse, have very challenges, to understand and apllicaded is very value. 
 
 
 - 🔭 I’m currently search of working. 
@@ -61,10 +61,16 @@ I am Analyst and deployment System of formation in the Unicesumar, i graduated i
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   
-  # what will you find....
+  # What will you find....
   
  - Projects done in university.
  - tests of something business.
+  
+ # 🤖 Artificial Intelligence and Bots
+  
+  This project was development in Api gives openai, integrated in Whatspp folks. 
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos614&repo=ChatBotGPT&theme=merko)](https://github.com/carlos614/ChatBotGPT)
 
  # <p align= "center">My Github Stats<p>
 
