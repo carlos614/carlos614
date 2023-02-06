@@ -8,7 +8,7 @@
 # Who am i 👽
 <br>
 
-I am Analyst and development System of formation in the Unicesumar, i graduated in between of 2020. Well, i like very of the computacion and technology, is what be myself happy!!😀, of couse, have very challenges, to understand and apllicaded is very value. 
+I am Analyst and development System of formation in the Unicesumar, i graduated in between of 2020. Well, i like very of the computacion and technology, is what be myself happy!!😀, of couse, have very challenges, to understand, to criate and apllicaded is very value. 
 
 
 - 🔭 I’m currently search of working. 
