@@ -66,6 +66,7 @@ I am Analyst and development System of formation in the Unicesumar, i graduated 
   
  - Projects done in university.
  - Tests of projects for business.
+ - Improvement projects.
   
  # 🤖 Artificial Intelligence and Bots
   
