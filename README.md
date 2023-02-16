@@ -15,7 +15,7 @@ I am Analyst and development System of formation in the Unicesumar, i graduated 
 - 🌱 I’m currently learning technologies of the market of work
 - 💬 Ask me about, as my project final in the university.
 
-# <p align= "center">Technology stack 🦾<p>
+# <p align= "center">Hability stack 🦾<p>
   
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
