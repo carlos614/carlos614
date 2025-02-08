@@ -1,19 +1,19 @@
 [![MasterHead](https://github.com/carlos614/carlos614/blob/main/banner%20.png?raw=true)](https://github.com/carlos614)
 
 
-### Hello Devs 👋
+### Olá Devs 👋
 
-## You welcome to my Github profile
+## Bem vindo ao meu perfil
 
-# Who am i 👽
+# Quem sou eu 👽
 <br>
 
-I am Analyst and development System, specialist in the structuring in neural and language networks, and master in clean technology of formation in the Unicesumar, i graduated in between of 2020. Well, i like very of the computacion and technology, is what be myself happy!!😀, of couse, have very challenges, to understand, to criate and apllicaded is very value. 
+Eu sou formando em Analise e desenvolvimento de sistemas, sou graduado em julho de 2020. bom, eu gosto muito de computação de tecnologia, é o que gosto de fazer!!😀, é claro, tem muito desafios, para entender, para cirar e aplicar é um grande valor. 
 
 
-- 🔭 I’m currently search of working. 
-- 🌱 I’m currently learning technologies of the market of work
-- 💬 Ask me about, as my project final in the university.
+- 🔭 Atualmente estou em busca de emprego. 
+- 🌱 Atualmente aprendo tecnologia do mecado de trablaho.
+- 💬 Pergunte me mais sobre o meu projeto final da universidade.
 
 # <p align= "center">Hability stack 🦾<p>
   
@@ -68,11 +68,11 @@ I am Analyst and development System, specialist in the structuring in neural and
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   
-  # What will you find....
+  # O que vai encontrar....
   
- - Projects done in university.
- - Tests of projects for business.
- - Improvement projects.
+ - Projetos da minha universidade.
+ - Testes de projetos para negócios.
+ - Melhoria de projetos.
   
  # 🤖 Artificial Intelligence and Bots
   
