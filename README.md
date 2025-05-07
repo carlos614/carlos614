@@ -8,7 +8,7 @@
 # Quem sou eu 👽
 <br>
 
-Eu sou formando em Analise e desenvolvimento de sistemas, sou graduado em julho de 2020. bom, eu gosto muito de computação de tecnologia, é o que gosto de fazer!!😀, é claro, tem muito desafios, para entender, para cirar e aplicar é um grande valor. 
+Eu sou formado em Analise e desenvolvimento de sistemas, sou graduado em julho de 2020. bom, eu gosto muito de computação de tecnologia, é o que gosto de fazer!!😀, é claro, tem muito desafios, para entender, para criar e aplicar é um grande valor. 
 
 
 - 🔭 Atualmente estou em busca de emprego. 
